@@ -53,7 +53,7 @@ while(erromax > var.ACEITAVEL and l < var.MAXITER):
   cont += 1
 conteudo.append('\n\nVERIFICAÇÃO\n')
 print('\n\nVERIFICAÇÃO\n')
-var.NPAD = 334
+var.NPAD = 288
 aprendizagem.verifica(x, w1, w2, y, w3, t, conteudo)
 
 arq = open('relat.txt', 'w')

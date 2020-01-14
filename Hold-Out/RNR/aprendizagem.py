@@ -127,7 +127,7 @@ def verifica(x, w1, w2, y, w3, t, conteudo):
     print('Calculado>>{}\t\tDesejado>>{}\t\tErro>>{:.9f}\n'.format(o[0], y[m,0], erro))
     var.emq = var.emq + erro
     
-    if erro > 0.25: erro_grande += 1
+    #if erro > 0.25: erro_grande += 1
     
     t = y[m, 0]
     e = o[0]
@@ -140,8 +140,8 @@ def verifica(x, w1, w2, y, w3, t, conteudo):
     '''elif t == 0.3 and e >= 0.25 and e < 0.35:
       acertos += 1'''
   acertos = acertos1 + acertos2
-  print('\nForam ignorados {} registros por conta de ter uma taxa de erro grande!\n'.format(erro_grande))
-  var.NPAD -= erro_grande
+  '''print('\nForam ignorados {} registros por conta de ter uma taxa de erro grande!\n'.format(erro_grande))
+  var.NPAD -= erro_grande'''
 
   cont = var.NPAD - acertos
 
