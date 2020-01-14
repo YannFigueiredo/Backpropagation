@@ -1,7 +1,7 @@
 import dataset
 import numpy as np
 
-NPAD = 1000
+NPAD = 862
 NENT = 25
 NSAI = 1
 
@@ -11,11 +11,11 @@ y = np.zeros((NPAD, NSAI))
 dataset.criar_dataset(x, y)
 
 #Variáveis para balanceamento
-treino01 = 466
-treino02 = 200
-teste01 = 234
-teste02 = 100
-#balanc = True
+treino01 = 422
+treino02 = 152
+teste01 = 212
+teste02 = 76
+balanc = True
 
 #Treino
 arq = open('treino.py', 'w')

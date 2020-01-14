@@ -24,7 +24,7 @@ def organizar_dados():
 
 aleat = False
 
-arquivo = 'german-numeric.txt'
+arquivo = 'german_credit_sem_outliers.txt'
 
 arq = open(arquivo, 'r')
 texto = arq.readlines()
@@ -74,7 +74,7 @@ for i in range(len(dados)):
 for i in range(len(dados)):
     print('DADOS LINHA {}: {}\n'.format(i ,dados[i]))
 
-NPAD = 1000
+NPAD = 862
 NENT = 25
 NSAI = 1
 x = np.zeros((NPAD, NENT)) #Matriz das entradas
@@ -145,7 +145,7 @@ print('\nValores de saída\n')
 for i in range(NPAD):
   for j in range(NSAI):
     print('y[{}][{}] = {};'.format(i, j, y[i,j]))
-    if y[i, j] == 0.1: cont1 += 1
+    if y[i, j] == 0.0: cont1 += 1
     else: cont2 += 1
     dataset.append('\ty['+str(i)+']['+str(j)+'] = '+str(y[i,j])+';\n')
 

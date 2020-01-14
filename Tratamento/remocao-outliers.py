@@ -186,3 +186,14 @@ print(len(dados_tratados))
 arq = open('german_credit_sem_outliers.txt', 'w')
 arq.writelines(dados_tratados)
 arq.close()
+
+#Construindo um dataset.arff sem outliers
+arq = open('german-credit.arff', 'r')
+arq_arff = arq.readlines()
+
+for i in range(len(linhas)):
+  del arq_arff[linhas[i]]
+
+arq = open('german-credit-sem-outliers.arff', 'w')
+arq.writelines(arq_arff)
+arq.close()

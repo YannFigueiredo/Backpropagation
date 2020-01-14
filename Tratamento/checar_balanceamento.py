@@ -8,10 +8,10 @@ from collections import Counter
 NENT = 25
 NSAI = 1
 
-x = np.zeros((250, NENT))
-y = np.zeros((250, NSAI))
+x = np.zeros((288, NENT))
+y = np.zeros((288, NSAI))
 
-d1.criar_d1(x, y)
+teste.criar_teste(x, y)
 
 contador = Counter(chain.from_iterable(y))
 
