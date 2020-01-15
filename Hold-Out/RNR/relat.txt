@@ -4,773 +4,827 @@ Aprendizagem da Rede
 
 VERIFICAÇÃO
 Padrão>>0
-Calculado>>0.995981038833		Desejado>>1.0		Erro>>8.07602443279e-06
+Calculado>>0.140894964512		Desejado>>1.0		Erro>>0.369030731001
 Padrão>>1
-Calculado>>0.996885983966		Desejado>>1.0		Erro>>4.84854792922e-06
+Calculado>>0.998323671769		Desejado>>1.0		Erro>>1.40503816882e-06
 Padrão>>2
-Calculado>>0.995509128478		Desejado>>1.0		Erro>>1.00839635144e-05
+Calculado>>0.875827961654		Desejado>>1.0		Erro>>0.00770934755349
 Padrão>>3
-Calculado>>0.994865429962		Desejado>>1.0		Erro>>1.31819047378e-05
+Calculado>>0.258037054728		Desejado>>1.0		Erro>>0.275254506078
 Padrão>>4
-Calculado>>0.995594166897		Desejado>>1.0		Erro>>9.70568266397e-06
+Calculado>>0.429096284556		Desejado>>1.0		Erro>>0.162965526154
 Padrão>>5
-Calculado>>0.996719391129		Desejado>>1.0		Erro>>5.38119728295e-06
+Calculado>>0.999744195978		Desejado>>1.0		Erro>>3.27178489341e-08
 Padrão>>6
-Calculado>>0.995625314685		Desejado>>1.0		Erro>>9.56893580089e-06
+Calculado>>0.999927967948		Desejado>>1.0		Erro>>2.59430827126e-09
 Padrão>>7
-Calculado>>0.995393805311		Desejado>>1.0		Erro>>1.0608514757e-05
+Calculado>>0.339816967864		Desejado>>1.0		Erro>>0.21792081796
 Padrão>>8
-Calculado>>0.00237484651829		Desejado>>0.0		Erro>>2.81994799272e-06
+Calculado>>0.0092265350469		Desejado>>0.0		Erro>>4.25644744858e-05
 Padrão>>9
-Calculado>>0.995235080537		Desejado>>1.0		Erro>>1.13522287462e-05
+Calculado>>0.019511145629		Desejado>>1.0		Erro>>0.480679196773
 Padrão>>10
-Calculado>>0.00207327921971		Desejado>>0.0		Erro>>2.14924336144e-06
+Calculado>>0.0587462215654		Desejado>>0.0		Erro>>0.00172555927411
 Padrão>>11
-Calculado>>0.00199928538287		Desejado>>0.0		Erro>>1.99857102108e-06
+Calculado>>0.0261477342817		Desejado>>0.0		Erro>>0.000341852004034
 Padrão>>12
-Calculado>>0.00231289515254		Desejado>>0.0		Erro>>2.67474199332e-06
+Calculado>>0.128196332178		Desejado>>0.0		Erro>>0.00821714979194
 Padrão>>13
-Calculado>>0.00301003792724		Desejado>>0.0		Erro>>4.53016416173e-06
+Calculado>>0.0489984592181		Desejado>>0.0		Erro>>0.00120042450287
 Padrão>>14
-Calculado>>0.00290986972594		Desejado>>0.0		Erro>>4.23367091098e-06
+Calculado>>0.327457595808		Desejado>>0.0		Erro>>0.0536142385262
 Padrão>>15
-Calculado>>0.0025037606875		Desejado>>0.0		Erro>>3.13440879015e-06
+Calculado>>0.0651131515985		Desejado>>0.0		Erro>>0.00211986125554
 Padrão>>16
-Calculado>>0.00262150077577		Desejado>>0.0		Erro>>3.43613315868e-06
+Calculado>>0.0427154530537		Desejado>>0.0		Erro>>0.00091230496479
 Padrão>>17
-Calculado>>0.00239668706142		Desejado>>0.0		Erro>>2.87205443519e-06
+Calculado>>0.0672058505376		Desejado>>0.0		Erro>>0.00225831317324
 Padrão>>18
-Calculado>>0.00182555959783		Desejado>>0.0		Erro>>1.66633392261e-06
+Calculado>>0.0836119309038		Desejado>>0.0		Erro>>0.00349547749473
 Padrão>>19
-Calculado>>0.00278947892526		Desejado>>0.0		Erro>>3.89059633725e-06
+Calculado>>0.229230567794		Desejado>>0.0		Erro>>0.0262733266056
 Padrão>>20
-Calculado>>0.00282122405664		Desejado>>0.0		Erro>>3.97965258887e-06
+Calculado>>0.00875810241181		Desejado>>0.0		Erro>>3.83521789279e-05
 Padrão>>21
-Calculado>>0.0033869319403		Desejado>>0.0		Erro>>5.73565398412e-06
+Calculado>>0.999384922981		Desejado>>0.0		Erro>>0.49938511214
 Padrão>>22
-Calculado>>0.00272636243419		Desejado>>0.0		Erro>>3.71652606127e-06
+Calculado>>0.719729540391		Desejado>>0.0		Erro>>0.259005305656
 Padrão>>23
-Calculado>>0.00291193587156		Desejado>>0.0		Erro>>4.23968526003e-06
+Calculado>>0.243208468416		Desejado>>0.0		Erro>>0.0295751795545
 Padrão>>24
-Calculado>>0.00294188469403		Desejado>>0.0		Erro>>4.32734277647e-06
+Calculado>>0.525272458688		Desejado>>0.0		Erro>>0.137955577928
 Padrão>>25
-Calculado>>0.00252354919021		Desejado>>0.0		Erro>>3.1841502577e-06
+Calculado>>0.0488411004664		Desejado>>0.0		Erro>>0.00119272654739
 Padrão>>26
-Calculado>>0.00276175807447		Desejado>>0.0		Erro>>3.81365383094e-06
+Calculado>>0.0382558737848		Desejado>>0.0		Erro>>0.00073175593952
 Padrão>>27
-Calculado>>0.00165795860434		Desejado>>0.0		Erro>>1.37441336686e-06
+Calculado>>0.0133096455325		Desejado>>0.0		Erro>>8.85733321006e-05
 Padrão>>28
-Calculado>>0.0014780538306		Desejado>>0.0		Erro>>1.09232156308e-06
+Calculado>>0.0694007376918		Desejado>>0.0		Erro>>0.00240823119608
 Padrão>>29
-Calculado>>0.00548614084606		Desejado>>0.0		Erro>>1.50488706914e-05
+Calculado>>0.539427883828		Desejado>>0.0		Erro>>0.145491220925
 Padrão>>30
-Calculado>>0.00238547324479		Desejado>>0.0		Erro>>2.84524130082e-06
+Calculado>>0.0472883585054		Desejado>>0.0		Erro>>0.00111809442507
 Padrão>>31
-Calculado>>0.00201836528856		Desejado>>0.0		Erro>>2.03689921904e-06
+Calculado>>0.34031886912		Desejado>>0.0		Erro>>0.0579084663397
 Padrão>>32
-Calculado>>0.995301863948		Desejado>>1.0		Erro>>1.10362411831e-05
+Calculado>>0.15387244284		Desejado>>1.0		Erro>>0.357965921493
 Padrão>>33
-Calculado>>0.00248760167961		Desejado>>0.0		Erro>>3.09408105819e-06
+Calculado>>0.144683426156		Desejado>>0.0		Erro>>0.0104666469022
 Padrão>>34
-Calculado>>0.00216076442805		Desejado>>0.0		Erro>>2.33445145677e-06
+Calculado>>0.0585797679325		Desejado>>0.0		Erro>>0.00171579460551
 Padrão>>35
-Calculado>>0.00349343290315		Desejado>>0.0		Erro>>6.1020367244e-06
+Calculado>>0.594791880426		Desejado>>0.0		Erro>>0.17688869051
 Padrão>>36
-Calculado>>0.00346504969711		Desejado>>0.0		Erro>>6.00328470173e-06
+Calculado>>0.474383195023		Desejado>>0.0		Erro>>0.11251970786
 Padrão>>37
-Calculado>>0.996581932164		Desejado>>1.0		Erro>>5.84159386548e-06
+Calculado>>0.657013385277		Desejado>>1.0		Erro>>0.0588199089397
 Padrão>>38
-Calculado>>0.00231321341689		Desejado>>0.0		Erro>>2.67547815605e-06
+Calculado>>0.0476293007942		Desejado>>0.0		Erro>>0.00113427514707
 Padrão>>39
-Calculado>>0.00253964432474		Desejado>>0.0		Erro>>3.22489664809e-06
+Calculado>>0.0288512462306		Desejado>>0.0		Erro>>0.000416197204529
 Padrão>>40
-Calculado>>0.00206107064006		Desejado>>0.0		Erro>>2.12400609167e-06
+Calculado>>0.0744152947913		Desejado>>0.0		Erro>>0.00276881804943
 Padrão>>41
-Calculado>>0.9952847813		Desejado>>1.0		Erro>>1.11166436959e-05
+Calculado>>0.738163927813		Desejado>>1.0		Erro>>0.034279064349
 Padrão>>42
-Calculado>>0.00123784073129		Desejado>>0.0		Erro>>7.66124838024e-07
+Calculado>>0.03815737331		Desejado>>0.0		Erro>>0.00072799256896
 Padrão>>43
-Calculado>>0.0020754370233		Desejado>>0.0		Erro>>2.15371941884e-06
+Calculado>>0.0522383648559		Desejado>>0.0		Erro>>0.00136442338141
 Padrão>>44
-Calculado>>0.00121280990951		Desejado>>0.0		Erro>>7.35453938305e-07
+Calculado>>0.0268134432481		Desejado>>0.0		Erro>>0.000359480369409
 Padrão>>45
-Calculado>>0.00178310355531		Desejado>>0.0		Erro>>1.58972914448e-06
+Calculado>>0.0377814145795		Desejado>>0.0		Erro>>0.000713717643815
 Padrão>>46
-Calculado>>0.00255173038105		Desejado>>0.0		Erro>>3.25566396877e-06
+Calculado>>0.310258666098		Desejado>>0.0		Erro>>0.0481302199446
 Padrão>>47
-Calculado>>0.00205017348866		Desejado>>0.0		Erro>>2.1016056668e-06
+Calculado>>0.0470192532626		Desejado>>0.0		Erro>>0.00110540508869
 Padrão>>48
-Calculado>>0.00329331571911		Desejado>>0.0		Erro>>5.42296421286e-06
+Calculado>>0.803426971727		Desejado>>0.0		Erro>>0.322747449449
 Padrão>>49
-Calculado>>0.995765309439		Desejado>>1.0		Erro>>8.96630207266e-06
+Calculado>>0.319604809792		Desejado>>1.0		Erro>>0.231468807429
 Padrão>>50
-Calculado>>0.996548413923		Desejado>>1.0		Erro>>5.95672322321e-06
+Calculado>>0.158258397734		Desejado>>1.0		Erro>>0.354264462493
 Padrão>>51
-Calculado>>0.996210873282		Desejado>>1.0		Erro>>7.1787406434e-06
+Calculado>>0.759365329898		Desejado>>1.0		Erro>>0.0289525222276
 Padrão>>52
-Calculado>>0.996110122338		Desejado>>1.0		Erro>>7.56557411205e-06
+Calculado>>0.0942980444397		Desejado>>1.0		Erro>>0.410148016153
 Padrão>>53
-Calculado>>0.0032049890583		Desejado>>0.0		Erro>>5.1359774319e-06
+Calculado>>0.00600853219741		Desejado>>0.0		Erro>>1.80512295837e-05
 Padrão>>54
-Calculado>>0.00170434663324		Desejado>>0.0		Erro>>1.45239872312e-06
+Calculado>>0.0729489213812		Desejado>>0.0		Erro>>0.00266077256534
 Padrão>>55
-Calculado>>0.99646337167		Desejado>>1.0		Erro>>6.25386997092e-06
+Calculado>>0.752913093822		Desejado>>1.0		Erro>>0.0305259696022
 Padrão>>56
-Calculado>>0.00221412449056		Desejado>>0.0		Erro>>2.45117362985e-06
+Calculado>>0.0790167825244		Desejado>>0.0		Erro>>0.00312182596026
 Padrão>>57
-Calculado>>0.00275417047213		Desejado>>0.0		Erro>>3.79272749478e-06
+Calculado>>0.342954186629		Desejado>>0.0		Erro>>0.0588087870633
 Padrão>>58
-Calculado>>0.995221325124		Desejado>>1.0		Erro>>1.14178667839e-05
+Calculado>>0.697348347706		Desejado>>1.0		Erro>>0.0457990113182
 Padrão>>59
-Calculado>>0.00152545876025		Desejado>>0.0		Erro>>1.16351221462e-06
+Calculado>>0.00320534305971		Desejado>>0.0		Erro>>5.13711206521e-06
 Padrão>>60
-Calculado>>0.00233468164908		Desejado>>0.0		Erro>>2.72536920129e-06
+Calculado>>0.022051430975		Desejado>>0.0		Erro>>0.000243132804022
 Padrão>>61
-Calculado>>0.00266930025849		Desejado>>0.0		Erro>>3.56258193499e-06
+Calculado>>0.0126109696571		Desejado>>0.0		Erro>>7.95182778456e-05
 Padrão>>62
-Calculado>>0.0069511029258		Desejado>>0.0		Erro>>2.41589159426e-05
+Calculado>>0.624984446999		Desejado>>0.0		Erro>>0.195302779495
 Padrão>>63
-Calculado>>0.00422424635493		Desejado>>0.0		Erro>>8.92212863355e-06
+Calculado>>0.952878368843		Desejado>>0.0		Erro>>0.453988592905
 Padrão>>64
-Calculado>>0.00266087028232		Desejado>>0.0		Erro>>3.54011532966e-06
+Calculado>>0.0454334218664		Desejado>>0.0		Erro>>0.00103209791125
 Padrão>>65
-Calculado>>0.996584231796		Desejado>>1.0		Erro>>5.83373621255e-06
+Calculado>>0.653413247185		Desejado>>1.0		Erro>>0.0600611886135
 Padrão>>66
-Calculado>>0.00484628070846		Desejado>>0.0		Erro>>1.17432183526e-05
+Calculado>>0.940534805072		Desejado>>0.0		Erro>>0.442302859776
 Padrão>>67
-Calculado>>0.00352033421873		Desejado>>0.0		Erro>>6.19637650579e-06
+Calculado>>0.387980817343		Desejado>>0.0		Erro>>0.0752645573129
 Padrão>>68
-Calculado>>0.00192564858541		Desejado>>0.0		Erro>>1.85406123724e-06
+Calculado>>0.0516969416958		Desejado>>0.0		Erro>>0.00133628689035
 Padrão>>69
-Calculado>>0.00328008159929		Desejado>>0.0		Erro>>5.37946764901e-06
+Calculado>>0.660492468881		Desejado>>0.0		Erro>>0.218125150724
 Padrão>>70
-Calculado>>0.00316441799842		Desejado>>0.0		Erro>>5.00677063437e-06
+Calculado>>0.25886253025		Desejado>>0.0		Erro>>0.0335049047836
 Padrão>>71
-Calculado>>0.00504525905354		Desejado>>0.0		Erro>>1.27273194586e-05
+Calculado>>0.716029217727		Desejado>>0.0		Erro>>0.256348920319
 Padrão>>72
-Calculado>>0.996176609457		Desejado>>1.0		Erro>>7.30915762378e-06
+Calculado>>0.78645594221		Desejado>>1.0		Erro>>0.0228005323087
 Padrão>>73
-Calculado>>0.00206830814939		Desejado>>0.0		Erro>>2.13894930042e-06
+Calculado>>0.0160989180503		Desejado>>0.0		Erro>>0.000129587581195
 Padrão>>74
-Calculado>>0.00211073196606		Desejado>>0.0		Erro>>2.22759471627e-06
+Calculado>>0.0185107247161		Desejado>>0.0		Erro>>0.000171323464758
 Padrão>>75
-Calculado>>0.00298808745634		Desejado>>0.0		Erro>>4.46433332336e-06
+Calculado>>0.0494028080334		Desejado>>0.0		Erro>>0.00122031872079
 Padrão>>76
-Calculado>>0.996721422458		Desejado>>1.0		Erro>>5.3745353506e-06
+Calculado>>0.79889005525		Desejado>>1.0		Erro>>0.0202226049387
 Padrão>>77
-Calculado>>0.00292222557832		Desejado>>0.0		Erro>>4.2697011653e-06
+Calculado>>0.505670140225		Desejado>>0.0		Erro>>0.127851145357
 Padrão>>78
-Calculado>>0.00255462153678		Desejado>>0.0		Erro>>3.26304559808e-06
+Calculado>>0.015656856077		Desejado>>0.0		Erro>>0.000122568571108
 Padrão>>79
-Calculado>>0.99319583276		Desejado>>1.0		Erro>>2.31483459155e-05
+Calculado>>0.0994299081151		Desejado>>1.0		Erro>>0.405513245199
 Padrão>>80
-Calculado>>0.995667560132		Desejado>>1.0		Erro>>9.38501760278e-06
+Calculado>>0.882328342389		Desejado>>1.0		Erro>>0.00692330950246
 Padrão>>81
-Calculado>>0.993454034288		Desejado>>1.0		Erro>>2.14248335523e-05
+Calculado>>0.101201020325		Desejado>>1.0		Erro>>0.403919802932
 Padrão>>82
-Calculado>>0.00197662991231		Desejado>>0.0		Erro>>1.95353290511e-06
+Calculado>>0.0326344387317		Desejado>>0.0		Erro>>0.000532503295666
 Padrão>>83
-Calculado>>0.994694947103		Desejado>>1.0		Erro>>1.40717931211e-05
+Calculado>>0.985499106985		Desejado>>1.0		Erro>>0.000105137949112
 Padrão>>84
-Calculado>>0.00209641642324		Desejado>>0.0		Erro>>2.19748090981e-06
+Calculado>>0.291014993482		Desejado>>0.0		Erro>>0.0423448632157
 Padrão>>85
-Calculado>>0.994254151257		Desejado>>1.0		Erro>>1.65073888876e-05
+Calculado>>0.54378645241		Desejado>>1.0		Erro>>0.104065400502
 Padrão>>86
-Calculado>>0.00291758613136		Desejado>>0.0		Erro>>4.25615441694e-06
+Calculado>>0.603016082337		Desejado>>0.0		Erro>>0.181814197778
 Padrão>>87
-Calculado>>0.00244010466438		Desejado>>0.0		Erro>>2.97705538657e-06
+Calculado>>0.0606160845295		Desejado>>0.0		Erro>>0.00183715485185
 Padrão>>88
-Calculado>>0.00154601127222		Desejado>>0.0		Erro>>1.19507542691e-06
+Calculado>>0.0765693062388		Desejado>>0.0		Erro>>0.00293142932895
 Padrão>>89
-Calculado>>0.996023551651		Desejado>>1.0		Erro>>7.90607073484e-06
+Calculado>>0.703883362492		Desejado>>1.0		Erro>>0.0438425315046
 Padrão>>90
-Calculado>>0.00205042401428		Desejado>>0.0		Erro>>2.10211931917e-06
+Calculado>>0.0176092576653		Desejado>>0.0		Erro>>0.000155042977761
 Padrão>>91
-Calculado>>0.00226009126023		Desejado>>0.0		Erro>>2.55400625227e-06
+Calculado>>0.167529633645		Desejado>>0.0		Erro>>0.0140330890745
 Padrão>>92
-Calculado>>0.00159480859664		Desejado>>0.0		Erro>>1.27170722997e-06
+Calculado>>0.103707898616		Desejado>>0.0		Erro>>0.00537766411762
 Padrão>>93
-Calculado>>0.00168786496417		Desejado>>0.0		Erro>>1.42444406863e-06
+Calculado>>0.0418654127471		Desejado>>0.0		Erro>>0.000876356392245
 Padrão>>94
-Calculado>>0.0013532208603		Desejado>>0.0		Erro>>9.1560334838e-07
+Calculado>>0.0426884278466		Desejado>>0.0		Erro>>0.000911150936008
 Padrão>>95
-Calculado>>0.00201043790914		Desejado>>0.0		Erro>>2.02093029324e-06
+Calculado>>0.0487828211607		Desejado>>0.0		Erro>>0.0011898818202
 Padrão>>96
-Calculado>>0.995460206638		Desejado>>1.0		Erro>>1.03048618843e-05
+Calculado>>0.766697311924		Desejado>>1.0		Erro>>0.0272150721318
 Padrão>>97
-Calculado>>0.00282364661339		Desejado>>0.0		Erro>>3.98649009866e-06
+Calculado>>0.0611036708089		Desejado>>0.0		Erro>>0.00186682929316
 Padrão>>98
-Calculado>>0.00160326886332		Desejado>>0.0		Erro>>1.28523552405e-06
+Calculado>>0.175274736228		Desejado>>0.0		Erro>>0.0153606165798
 Padrão>>99
-Calculado>>0.00127924498882		Desejado>>0.0		Erro>>8.18233870714e-07
+Calculado>>0.0111852699361		Desejado>>0.0		Erro>>6.25551317715e-05
 Padrão>>100
-Calculado>>0.989660339117		Desejado>>1.0		Erro>>5.34542935903e-05
+Calculado>>0.0109651775335		Desejado>>1.0		Erro>>0.489094940026
 Padrão>>101
-Calculado>>0.00167076657397		Desejado>>0.0		Erro>>1.39573047235e-06
+Calculado>>0.0745010163203		Desejado>>0.0		Erro>>0.00277520071638
 Padrão>>102
-Calculado>>0.0035266152169		Desejado>>0.0		Erro>>6.21850744404e-06
+Calculado>>0.561439421885		Desejado>>0.0		Erro>>0.157607112223
 Padrão>>103
-Calculado>>0.997261417975		Desejado>>1.0		Erro>>3.74991575501e-06
+Calculado>>0.998110340652		Desejado>>1.0		Erro>>1.78540622562e-06
 Padrão>>104
-Calculado>>0.00192716357966		Desejado>>0.0		Erro>>1.85697973139e-06
+Calculado>>0.204731880274		Desejado>>0.0		Erro>>0.0209575714002
 Padrão>>105
-Calculado>>0.00248758648365		Desejado>>0.0		Erro>>3.09404325682e-06
+Calculado>>0.141580732247		Desejado>>0.0		Erro>>0.0100225518718
 Padrão>>106
-Calculado>>0.00212385448391		Desejado>>0.0		Erro>>2.25537893441e-06
+Calculado>>0.0465871446234		Desejado>>0.0		Erro>>0.00108518102208
 Padrão>>107
-Calculado>>0.995611541922		Desejado>>1.0		Erro>>9.6292821513e-06
+Calculado>>0.24623945445		Desejado>>1.0		Erro>>0.284077480014
 Padrão>>108
-Calculado>>0.994660662589		Desejado>>1.0		Erro>>1.42542619963e-05
+Calculado>>0.435143233769		Desejado>>1.0		Erro>>0.159531583179
 Padrão>>109
-Calculado>>0.00158171710443		Desejado>>0.0		Erro>>1.25091449922e-06
+Calculado>>0.246554240118		Desejado>>0.0		Erro>>0.03039449666
 Padrão>>110
-Calculado>>0.00163440878613		Desejado>>0.0		Erro>>1.33564604009e-06
+Calculado>>0.00710187033978		Desejado>>0.0		Erro>>2.52182811616e-05
 Padrão>>111
-Calculado>>0.00275152681604		Desejado>>0.0		Erro>>3.7854499097e-06
+Calculado>>0.405701389987		Desejado>>0.0		Erro>>0.0822968089185
 Padrão>>112
-Calculado>>0.00243515618477		Desejado>>0.0		Erro>>2.96499282212e-06
+Calculado>>0.0436678713502		Desejado>>0.0		Erro>>0.000953441494127
 Padrão>>113
-Calculado>>0.00299487518461		Desejado>>0.0		Erro>>4.48463868568e-06
+Calculado>>0.095356168761		Desejado>>0.0		Erro>>0.00454639946039
 Padrão>>114
-Calculado>>0.992160169335		Desejado>>1.0		Erro>>3.07314724282e-05
+Calculado>>0.988772880096		Desejado>>1.0		Erro>>6.30241106647e-05
 Padrão>>115
-Calculado>>0.00280996132747		Desejado>>0.0		Erro>>3.94794133094e-06
+Calculado>>0.076138578235		Desejado>>0.0		Erro>>0.00289854154783
 Padrão>>116
-Calculado>>0.00215698614908		Desejado>>0.0		Erro>>2.32629462366e-06
+Calculado>>0.706208998891		Desejado>>0.0		Erro>>0.249365575057
 Padrão>>117
-Calculado>>0.00405273496193		Desejado>>0.0		Erro>>8.21233033584e-06
+Calculado>>0.117480113196		Desejado>>0.0		Erro>>0.00690078849824
 Padrão>>118
-Calculado>>0.00189220569238		Desejado>>0.0		Erro>>1.79022119114e-06
+Calculado>>0.0915381531448		Desejado>>0.0		Erro>>0.00418961674058
 Padrão>>119
-Calculado>>0.00144636637265		Desejado>>0.0		Erro>>1.04598784197e-06
+Calculado>>0.0752192928755		Desejado>>0.0		Erro>>0.00282897101034
 Padrão>>120
-Calculado>>0.00223124481487		Desejado>>0.0		Erro>>2.48922671194e-06
+Calculado>>0.314488361283		Desejado>>0.0		Erro>>0.0494514646912
 Padrão>>121
-Calculado>>0.00164118788768		Desejado>>0.0		Erro>>1.34674884134e-06
+Calculado>>0.072345705698		Desejado>>0.0		Erro>>0.00261695056647
 Padrão>>122
-Calculado>>0.00605144678298		Desejado>>0.0		Erro>>1.83100040836e-05
+Calculado>>0.999028404534		Desejado>>0.0		Erro>>0.499028876533
 Padrão>>123
-Calculado>>0.00267028892077		Desejado>>0.0		Erro>>3.56522146019e-06
+Calculado>>0.00806162102644		Desejado>>0.0		Erro>>3.2494866787e-05
 Padrão>>124
-Calculado>>0.997725115686		Desejado>>1.0		Erro>>2.58754932109e-06
+Calculado>>0.854306677824		Desejado>>1.0		Erro>>0.0106132720634
 Padrão>>125
-Calculado>>0.00270399428727		Desejado>>0.0		Erro>>3.65579255279e-06
+Calculado>>0.0119590530359		Desejado>>0.0		Erro>>7.15094747578e-05
 Padrão>>126
-Calculado>>0.0017020147096		Desejado>>0.0		Erro>>1.44842703584e-06
+Calculado>>0.00364741558343		Desejado>>0.0		Erro>>6.65182021911e-06
 Padrão>>127
-Calculado>>0.00304603817151		Desejado>>0.0		Erro>>4.63917427116e-06
+Calculado>>0.213180958013		Desejado>>0.0		Erro>>0.0227230604297
 Padrão>>128
-Calculado>>0.00222643578443		Desejado>>0.0		Erro>>2.47850815109e-06
+Calculado>>0.030333937783		Desejado>>0.0		Erro>>0.000460073890711
 Padrão>>129
-Calculado>>0.00243573890378		Desejado>>0.0		Erro>>2.96641200369e-06
+Calculado>>0.0161192014973		Desejado>>0.0		Erro>>0.000129914328455
 Padrão>>130
-Calculado>>0.995209343061		Desejado>>1.0		Erro>>1.14751969533e-05
+Calculado>>0.274122808542		Desejado>>1.0		Erro>>0.26344884854
 Padrão>>131
-Calculado>>0.00332505139847		Desejado>>0.0		Erro>>5.52798340122e-06
+Calculado>>0.0842832643476		Desejado>>0.0		Erro>>0.00355183432455
 Padrão>>132
-Calculado>>0.00267454358685		Desejado>>0.0		Erro>>3.57659169897e-06
+Calculado>>0.125710732094		Desejado>>0.0		Erro>>0.0079015940818
 Padrão>>133
-Calculado>>0.995213028744		Desejado>>1.0		Erro>>1.14575469041e-05
+Calculado>>0.258502159042		Desejado>>1.0		Erro>>0.274909524073
 Padrão>>134
-Calculado>>0.00221796941974		Desejado>>0.0		Erro>>2.45969417344e-06
+Calculado>>0.0111524243697		Desejado>>0.0		Erro>>6.21882846608e-05
 Padrão>>135
-Calculado>>0.00270166265275		Desejado>>0.0		Erro>>3.64949054463e-06
+Calculado>>0.319124527513		Desejado>>0.0		Erro>>0.0509202320301
 Padrão>>136
-Calculado>>0.00243588810278		Desejado>>0.0		Erro>>2.96677542463e-06
+Calculado>>0.187509082587		Desejado>>0.0		Erro>>0.0175798280262
 Padrão>>137
-Calculado>>0.995978030922		Desejado>>1.0		Erro>>8.0881176314e-06
+Calculado>>0.260398017692		Desejado>>1.0		Erro>>0.273505546117
 Padrão>>138
-Calculado>>0.996673416924		Desejado>>1.0		Erro>>5.53307748016e-06
+Calculado>>0.76352580339		Desejado>>1.0		Erro>>0.0279600228312
 Padrão>>139
-Calculado>>0.00247111327965		Desejado>>0.0		Erro>>3.05320042042e-06
+Calculado>>0.0661271291871		Desejado>>0.0		Erro>>0.00218639860727
 Padrão>>140
-Calculado>>0.996681347537		Desejado>>1.0		Erro>>5.50672708536e-06
+Calculado>>0.835548814221		Desejado>>1.0		Erro>>0.013522096252
 Padrão>>141
-Calculado>>0.0022971148783		Desejado>>0.0		Erro>>2.63836838206e-06
+Calculado>>0.788011640575		Desejado>>0.0		Erro>>0.310481172841
 Padrão>>142
-Calculado>>0.995598199239		Desejado>>1.0		Erro>>9.68792496835e-06
+Calculado>>0.178183250794		Desejado>>1.0		Erro>>0.337691384637
 Padrão>>143
-Calculado>>0.997160698681		Desejado>>1.0		Erro>>4.0308159905e-06
+Calculado>>0.926859151612		Desejado>>1.0		Erro>>0.00267479185144
 Padrão>>144
-Calculado>>0.00310549540608		Desejado>>0.0		Erro>>4.82205085861e-06
+Calculado>>0.993322344445		Desejado>>0.0		Erro>>0.493344639987
 Padrão>>145
-Calculado>>0.00360388216517		Desejado>>0.0		Erro>>6.49398333022e-06
+Calculado>>0.0454121790581		Desejado>>0.0		Erro>>0.0010311330034
 Padrão>>146
-Calculado>>0.00132567486123		Desejado>>0.0		Erro>>8.78706918845e-07
+Calculado>>0.109455709099		Desejado>>0.0		Erro>>0.00599027612717
 Padrão>>147
-Calculado>>0.00182502183196		Desejado>>0.0		Erro>>1.66535234356e-06
+Calculado>>0.046763767537		Desejado>>0.0		Erro>>0.00109342497713
 Padrão>>148
-Calculado>>0.994675194541		Desejado>>1.0		Erro>>1.41767765907e-05
+Calculado>>0.384643687506		Desejado>>1.0		Erro>>0.189331695663
 Padrão>>149
-Calculado>>0.00228837323613		Desejado>>0.0		Erro>>2.61832603391e-06
+Calculado>>0.0191879582775		Desejado>>0.0		Erro>>0.000184088871429
 Padrão>>150
-Calculado>>0.995448179141		Desejado>>1.0		Erro>>1.03595365649e-05
+Calculado>>0.0923271984952		Desejado>>1.0		Erro>>0.411934957296
 Padrão>>151
-Calculado>>0.00349603342316		Desejado>>0.0		Erro>>6.11112484793e-06
+Calculado>>0.0788725097024		Desejado>>0.0		Erro>>0.00311043639338
 Padrão>>152
-Calculado>>0.00340126872137		Desejado>>0.0		Erro>>5.78431445747e-06
+Calculado>>0.0943803562261		Desejado>>0.0		Erro>>0.00445382582069
 Padrão>>153
-Calculado>>0.00230096830712		Desejado>>0.0		Erro>>2.64722757519e-06
+Calculado>>0.588363700996		Desejado>>0.0		Erro>>0.173085922325
 Padrão>>154
-Calculado>>0.00317249443071		Desejado>>0.0		Erro>>5.03236045645e-06
+Calculado>>0.0517520973764		Desejado>>0.0		Erro>>0.00133913979143
 Padrão>>155
-Calculado>>0.00182368788036		Desejado>>0.0		Erro>>1.66291874248e-06
+Calculado>>0.0752145557928		Desejado>>0.0		Erro>>0.00282861470156
 Padrão>>156
-Calculado>>0.994262980802		Desejado>>1.0		Erro>>1.64566946367e-05
+Calculado>>0.719843001387		Desejado>>1.0		Erro>>0.0392439719359
 Padrão>>157
-Calculado>>0.993099378252		Desejado>>1.0		Erro>>2.38092902553e-05
+Calculado>>0.0707837936606		Desejado>>1.0		Erro>>0.431721379062
 Padrão>>158
-Calculado>>0.00138546335832		Desejado>>0.0		Erro>>9.59754358627e-07
+Calculado>>0.0349244925185		Desejado>>0.0		Erro>>0.000609860088837
 Padrão>>159
-Calculado>>0.00241384083784		Desejado>>0.0		Erro>>2.91331379521e-06
+Calculado>>0.0613158265449		Desejado>>0.0		Erro>>0.00187981529244
 Padrão>>160
-Calculado>>0.996733303307		Desejado>>1.0		Erro>>5.33565364051e-06
+Calculado>>0.902791566661		Desejado>>1.0		Erro>>0.00472473975613
 Padrão>>161
-Calculado>>0.00309890697399		Desejado>>0.0		Erro>>4.80161221671e-06
+Calculado>>0.0579573506673		Desejado>>0.0		Erro>>0.00167952724818
 Padrão>>162
-Calculado>>0.00251295644873		Desejado>>0.0		Erro>>3.1574750566e-06
+Calculado>>0.988276754683		Desejado>>0.0		Erro>>0.488345471923
 Padrão>>163
-Calculado>>0.0024244498317		Desejado>>0.0		Erro>>2.93897849322e-06
+Calculado>>0.0208782398849		Desejado>>0.0		Erro>>0.000217950450346
 Padrão>>164
-Calculado>>0.996385068154		Desejado>>1.0		Erro>>6.53386612512e-06
+Calculado>>0.95903265739		Desejado>>1.0		Erro>>0.00083916158027
 Padrão>>165
-Calculado>>0.00194154201809		Desejado>>0.0		Erro>>1.884792704e-06
+Calculado>>0.00251621877995		Desejado>>0.0		Erro>>3.16567847428e-06
 Padrão>>166
-Calculado>>0.00157886983713		Desejado>>0.0		Erro>>1.2464149813e-06
+Calculado>>0.00864463640667		Desejado>>0.0		Erro>>3.73648693018e-05
 Padrão>>167
-Calculado>>0.99431522048		Desejado>>1.0		Erro>>1.61583590966e-05
+Calculado>>0.0373781199162		Desejado>>1.0		Erro>>0.463320442008
 Padrão>>168
-Calculado>>0.995348172886		Desejado>>1.0		Erro>>1.08197477516e-05
+Calculado>>0.748956400922		Desejado>>1.0		Erro>>0.031511444319
 Padrão>>169
-Calculado>>0.00261708111512		Desejado>>0.0		Erro>>3.42455678156e-06
+Calculado>>0.0151390296095		Desejado>>0.0		Erro>>0.000114595108759
 Padrão>>170
-Calculado>>0.995765189671		Desejado>>1.0		Erro>>8.96680926112e-06
+Calculado>>0.016319143307		Desejado>>1.0		Erro>>0.483814013912
 Padrão>>171
-Calculado>>0.00304665791016		Desejado>>0.0		Erro>>4.64106221076e-06
+Calculado>>0.185545767168		Desejado>>0.0		Erro>>0.017213615857
 Padrão>>172
-Calculado>>0.00389490545216		Desejado>>0.0		Erro>>7.58514424064e-06
+Calculado>>0.620441634264		Desejado>>0.0		Erro>>0.192473910764
 Padrão>>173
-Calculado>>0.0019057575449		Desejado>>0.0		Erro>>1.81595590998e-06
+Calculado>>0.0357462117072		Desejado>>0.0		Erro>>0.000638895825708
 Padrão>>174
-Calculado>>0.00209137153119		Desejado>>0.0		Erro>>2.18691744073e-06
+Calculado>>0.173694789624		Desejado>>0.0		Erro>>0.0150849399712
 Padrão>>175
-Calculado>>0.00280067085909		Desejado>>0.0		Erro>>3.92187863048e-06
+Calculado>>0.946333514047		Desejado>>0.0		Erro>>0.447773559904
 Padrão>>176
-Calculado>>0.00259537324816		Desejado>>0.0		Erro>>3.36798114862e-06
+Calculado>>0.0256212696273		Desejado>>0.0		Erro>>0.000328224728658
 Padrão>>177
-Calculado>>0.00215253390233		Desejado>>0.0		Erro>>2.31670110034e-06
+Calculado>>0.0511781320671		Desejado>>0.0		Erro>>0.00130960060094
 Padrão>>178
-Calculado>>0.00193122380385		Desejado>>0.0		Erro>>1.86481269028e-06
+Calculado>>0.0778087342654		Desejado>>0.0		Erro>>0.00302709956399
 Padrão>>179
-Calculado>>0.00289587289529		Desejado>>0.0		Erro>>4.19303991285e-06
+Calculado>>0.972945118275		Desejado>>0.0		Erro>>0.473311101588
 Padrão>>180
-Calculado>>0.00390308488116		Desejado>>0.0		Erro>>7.61703579479e-06
+Calculado>>0.827027097102		Desejado>>0.0		Erro>>0.34198690967
 Padrão>>181
-Calculado>>0.00278446091323		Desejado>>0.0		Erro>>3.87661128866e-06
+Calculado>>0.456880451299		Desejado>>0.0		Erro>>0.104369873389
 Padrão>>182
-Calculado>>0.00503802588169		Desejado>>0.0		Erro>>1.26908523923e-05
+Calculado>>0.69938484817		Desejado>>0.0		Erro>>0.244569582925
 Padrão>>183
-Calculado>>0.00247964654318		Desejado>>0.0		Erro>>3.07432348954e-06
+Calculado>>0.0173699395829		Desejado>>0.0		Erro>>0.000150857400557
 Padrão>>184
-Calculado>>0.995876617798		Desejado>>1.0		Erro>>8.50114039156e-06
+Calculado>>0.464833151526		Desejado>>1.0		Erro>>0.143201777853
 Padrão>>185
-Calculado>>0.00174931847867		Desejado>>0.0		Erro>>1.53005756991e-06
+Calculado>>0.0190658929343		Desejado>>0.0		Erro>>0.000181754136691
 Padrão>>186
-Calculado>>0.00193804523687		Desejado>>0.0		Erro>>1.87800967008e-06
+Calculado>>0.0173375664087		Desejado>>0.0		Erro>>0.000150295604488
 Padrão>>187
-Calculado>>0.00189006036744		Desejado>>0.0		Erro>>1.78616409629e-06
+Calculado>>0.0806268139383		Desejado>>0.0		Erro>>0.00325034156292
 Padrão>>188
-Calculado>>0.995532077049		Desejado>>1.0		Erro>>9.98116774766e-06
+Calculado>>0.610627855238		Desejado>>1.0		Erro>>0.0758053335582
 Padrão>>189
-Calculado>>0.995318663126		Desejado>>1.0		Erro>>1.09574574622e-05
+Calculado>>0.941907609247		Desejado>>1.0		Erro>>0.00168736293173
 Padrão>>190
-Calculado>>0.00210984504767		Desejado>>0.0		Erro>>2.2257230626e-06
+Calculado>>0.232447280261		Desejado>>0.0		Erro>>0.0270158690503
 Padrão>>191
-Calculado>>0.00238075500162		Desejado>>0.0		Erro>>2.83399718886e-06
+Calculado>>0.0472526429289		Desejado>>0.0		Erro>>0.00111640613188
 Padrão>>192
-Calculado>>0.00187368687887		Desejado>>0.0		Erro>>1.75535126003e-06
+Calculado>>0.00883794149642		Desejado>>0.0		Erro>>3.90546049471e-05
 Padrão>>193
-Calculado>>0.00223296879605		Desejado>>0.0		Erro>>2.49307482206e-06
+Calculado>>0.747478660872		Desejado>>0.0		Erro>>0.279362174229
 Padrão>>194
-Calculado>>0.00188725270995		Desejado>>0.0		Erro>>1.7808613956e-06
+Calculado>>0.0775909650021		Desejado>>0.0		Erro>>0.00301017892498
 Padrão>>195
-Calculado>>0.00371350713744		Desejado>>0.0		Erro>>6.89506762992e-06
+Calculado>>0.116459532674		Desejado>>0.0		Erro>>0.00678141137533
 Padrão>>196
-Calculado>>0.00197114063568		Desejado>>0.0		Erro>>1.94269770281e-06
+Calculado>>0.0401506870734		Desejado>>0.0		Erro>>0.000806038836235
 Padrão>>197
-Calculado>>0.00192361653875		Desejado>>0.0		Erro>>1.85015029407e-06
+Calculado>>0.0511038797422		Desejado>>0.0		Erro>>0.00130580326235
 Padrão>>198
-Calculado>>0.00283465812798		Desejado>>0.0		Erro>>4.01764335125e-06
+Calculado>>0.803306129366		Desejado>>0.0		Erro>>0.322650368739
 Padrão>>199
-Calculado>>0.00182032879591		Desejado>>0.0		Erro>>1.6567984626e-06
+Calculado>>0.0315637650882		Desejado>>0.0		Erro>>0.000498135633271
 Padrão>>200
-Calculado>>0.00286569090947		Desejado>>0.0		Erro>>4.1060921943e-06
+Calculado>>0.0184236021594		Desejado>>0.0		Erro>>0.000169714558265
 Padrão>>201
-Calculado>>0.995748913233		Desejado>>1.0		Erro>>9.03586935176e-06
+Calculado>>0.775972313846		Desejado>>1.0		Erro>>0.0250942020818
 Padrão>>202
-Calculado>>0.992396732363		Desejado>>1.0		Erro>>2.89048393792e-05
+Calculado>>0.0925159271889		Desejado>>1.0		Erro>>0.411763671203
 Padrão>>203
-Calculado>>0.00294839463478		Desejado>>0.0		Erro>>4.34651546119e-06
+Calculado>>0.0599898778389		Desejado>>0.0		Erro>>0.00179939272156
 Padrão>>204
-Calculado>>0.00184235642555		Desejado>>0.0		Erro>>1.69713859939e-06
+Calculado>>0.031536434256		Desejado>>0.0		Erro>>0.000497273342792
 Padrão>>205
-Calculado>>0.00183449566375		Desejado>>0.0		Erro>>1.68268717015e-06
+Calculado>>0.0303503783858		Desejado>>0.0		Erro>>0.000460572734082
 Padrão>>206
-Calculado>>0.00247241404535		Desejado>>0.0		Erro>>3.05641560583e-06
+Calculado>>0.831523082807		Desejado>>0.0		Erro>>0.345715318621
 Padrão>>207
-Calculado>>0.00365461591102		Desejado>>0.0		Erro>>6.67810872854e-06
+Calculado>>0.394219580361		Desejado>>0.0		Erro>>0.0777045387701
 Padrão>>208
-Calculado>>0.00221442719273		Desejado>>0.0		Erro>>2.45184389594e-06
+Calculado>>0.143991380848		Desejado>>0.0		Erro>>0.0103667588793
 Padrão>>209
-Calculado>>0.00232073865928		Desejado>>0.0		Erro>>2.69291396235e-06
+Calculado>>0.0312317357219		Desejado>>0.0		Erro>>0.000487710658101
 Padrão>>210
-Calculado>>0.00305666052568		Desejado>>0.0		Erro>>4.67158678461e-06
+Calculado>>0.0311226180088		Desejado>>0.0		Erro>>0.000484308675862
 Padrão>>211
-Calculado>>0.00257717065908		Desejado>>0.0		Erro>>3.320904303e-06
+Calculado>>0.0286205434179		Desejado>>0.0		Erro>>0.000409567752768
 Padrão>>212
-Calculado>>0.996037800516		Desejado>>1.0		Erro>>7.8495123762e-06
+Calculado>>0.177297297204		Desejado>>1.0		Erro>>0.338419868594
 Padrão>>213
-Calculado>>0.00237709947998		Desejado>>0.0		Erro>>2.82530096886e-06
+Calculado>>0.462816556171		Desejado>>0.0		Erro>>0.107099582333
 Padrão>>214
-Calculado>>0.00250129614366		Desejado>>0.0		Erro>>3.12824119916e-06
+Calculado>>0.0533255611048		Desejado>>0.0		Erro>>0.00142180773357
 Padrão>>215
-Calculado>>0.995462184985		Desejado>>1.0		Erro>>1.02958825565e-05
+Calculado>>0.707975637842		Desejado>>1.0		Erro>>0.042639114047
 Padrão>>216
-Calculado>>0.00261497709524		Desejado>>0.0		Erro>>3.41905260431e-06
+Calculado>>0.0245908848979		Desejado>>0.0		Erro>>0.000302355810032
 Padrão>>217
-Calculado>>0.995879978971		Desejado>>1.0		Erro>>8.48728663833e-06
+Calculado>>0.608134767293		Desejado>>1.0		Erro>>0.0767791803024
 Padrão>>218
-Calculado>>0.993269098643		Desejado>>1.0		Erro>>2.26525165361e-05
+Calculado>>0.636006075011		Desejado>>1.0		Erro>>0.0662457887146
 Padrão>>219
-Calculado>>0.00274069276481		Desejado>>0.0		Erro>>3.75569841554e-06
+Calculado>>0.0926059528194		Desejado>>0.0		Erro>>0.00428793124879
 Padrão>>220
-Calculado>>0.995419472222		Desejado>>1.0		Erro>>1.04906173634e-05
+Calculado>>0.368483333917		Desejado>>1.0		Erro>>0.19940664977
 Padrão>>221
-Calculado>>0.00360523387733		Desejado>>0.0		Erro>>6.49885565511e-06
+Calculado>>0.549263754608		Desejado>>0.0		Erro>>0.150845336063
 Padrão>>222
-Calculado>>0.996752958886		Desejado>>1.0		Erro>>5.27163799696e-06
+Calculado>>0.940029885677		Desejado>>1.0		Erro>>0.00179820730595
 Padrão>>223
-Calculado>>0.997313807228		Desejado>>1.0		Erro>>3.60781580308e-06
+Calculado>>0.999892194229		Desejado>>1.0		Erro>>5.81104212766e-09
 Padrão>>224
-Calculado>>0.00250621398022		Desejado>>0.0		Erro>>3.14055425733e-06
+Calculado>>0.70788112746		Desejado>>0.0		Erro>>0.250547845307
 Padrão>>225
-Calculado>>0.00179309928017		Desejado>>0.0		Erro>>1.60760251427e-06
+Calculado>>0.0505527461748		Desejado>>0.0		Erro>>0.00127779007291
 Padrão>>226
-Calculado>>0.00316279521748		Desejado>>0.0		Erro>>5.00163679387e-06
+Calculado>>0.426030547912		Desejado>>0.0		Erro>>0.090751013877
 Padrão>>227
-Calculado>>0.00390230876335		Desejado>>0.0		Erro>>7.61400684226e-06
+Calculado>>0.467994127867		Desejado>>0.0		Erro>>0.109509251859
 Padrão>>228
-Calculado>>0.99582925639		Desejado>>1.0		Erro>>8.69755113081e-06
+Calculado>>0.240445624112		Desejado>>1.0		Erro>>0.288461424965
 Padrão>>229
-Calculado>>0.00250273467016		Desejado>>0.0		Erro>>3.1318404146e-06
+Calculado>>0.00411763555498		Desejado>>0.0		Erro>>8.4774612818e-06
 Padrão>>230
-Calculado>>0.00187717789406		Desejado>>0.0		Erro>>1.76189842298e-06
+Calculado>>0.150815718778		Desejado>>0.0		Erro>>0.0113726905153
 Padrão>>231
-Calculado>>0.00416646301707		Desejado>>0.0		Erro>>8.67970703631e-06
+Calculado>>0.67251606275		Desejado>>0.0		Erro>>0.226138927328
 Padrão>>232
-Calculado>>0.994997043327		Desejado>>1.0		Erro>>1.25147877362e-05
+Calculado>>0.802309419296		Desejado>>1.0		Erro>>0.0195407828495
 Padrão>>233
-Calculado>>0.995296100414		Desejado>>1.0		Erro>>1.10633356557e-05
+Calculado>>0.0163614465937		Desejado>>1.0		Erro>>0.483772401874
 Padrão>>234
-Calculado>>0.00232477951241		Desejado>>0.0		Erro>>2.70229989066e-06
+Calculado>>0.60472574834		Desejado>>0.0		Erro>>0.182846615353
 Padrão>>235
-Calculado>>0.00139011256797		Desejado>>0.0		Erro>>9.6620647581e-07
+Calculado>>0.0395935916551		Desejado>>0.0		Erro>>0.000783826250076
 Padrão>>236
-Calculado>>0.00283775308543		Desejado>>0.0		Erro>>4.02642128694e-06
+Calculado>>0.676843010039		Desejado>>0.0		Erro>>0.22905823012
 Padrão>>237
-Calculado>>0.00369693259781		Desejado>>0.0		Erro>>6.83365531638e-06
+Calculado>>0.0632138462377		Desejado>>0.0		Erro>>0.00199799517808
 Padrão>>238
-Calculado>>0.00284244684626		Desejado>>0.0		Erro>>4.03975203691e-06
+Calculado>>0.974248907438		Desejado>>0.0		Erro>>0.474580466823
 Padrão>>239
-Calculado>>0.00269302487012		Desejado>>0.0		Erro>>3.62619147554e-06
+Calculado>>0.0447699639184		Desejado>>0.0		Erro>>0.00100217483463
 Padrão>>240
-Calculado>>0.00165633536646		Desejado>>0.0		Erro>>1.3717234231e-06
+Calculado>>0.614413145194		Desejado>>0.0		Erro>>0.188751756494
 Padrão>>241
-Calculado>>0.99607322586		Desejado>>1.0		Erro>>7.70977757169e-06
+Calculado>>0.854066400735		Desejado>>1.0		Erro>>0.0106483076972
 Padrão>>242
-Calculado>>0.00334789467476		Desejado>>0.0		Erro>>5.60419937665e-06
+Calculado>>0.70904338008		Desejado>>0.0		Erro>>0.251371257418
 Padrão>>243
-Calculado>>0.99567615798		Desejado>>1.0		Erro>>9.34780490749e-06
+Calculado>>0.0713308128977		Desejado>>1.0		Erro>>0.431213229537
 Padrão>>244
-Calculado>>0.994603708438		Desejado>>1.0		Erro>>1.45599813088e-05
+Calculado>>0.0627366659356		Desejado>>1.0		Erro>>0.439231278691
 Padrão>>245
-Calculado>>0.00407975454315		Desejado>>0.0		Erro>>8.32219856617e-06
+Calculado>>0.723774393243		Desejado>>0.0		Erro>>0.261924686157
 Padrão>>246
-Calculado>>0.994762771389		Desejado>>1.0		Erro>>1.3714281761e-05
+Calculado>>0.444916681603		Desejado>>1.0		Erro>>0.154058745181
 Padrão>>247
-Calculado>>0.994691036395		Desejado>>1.0		Erro>>1.40925472775e-05
+Calculado>>0.228704497701		Desejado>>1.0		Erro>>0.297448375934
 Padrão>>248
-Calculado>>0.00239783517508		Desejado>>0.0		Erro>>2.87480676344e-06
+Calculado>>0.632177450554		Desejado>>0.0		Erro>>0.199824164494
 Padrão>>249
-Calculado>>0.00137315409616		Desejado>>0.0		Erro>>9.42776085896e-07
+Calculado>>0.322535997405		Desejado>>0.0		Erro>>0.0520147348109
 Padrão>>250
-Calculado>>0.00171241888206		Desejado>>0.0		Erro>>1.46618921381e-06
+Calculado>>0.0392480526073		Desejado>>0.0		Erro>>0.000770204816732
 Padrão>>251
-Calculado>>0.00177128426625		Desejado>>0.0		Erro>>1.56872397594e-06
+Calculado>>0.0171108024105		Desejado>>0.0		Erro>>0.000146389779566
 Padrão>>252
-Calculado>>0.995953776305		Desejado>>1.0		Erro>>8.18596309635e-06
+Calculado>>0.790301432167		Desejado>>1.0		Erro>>0.0219867446756
 Padrão>>253
-Calculado>>0.00245422380377		Desejado>>0.0		Erro>>3.0116072395e-06
+Calculado>>0.407135036825		Desejado>>0.0		Erro>>0.0828794691053
 Padrão>>254
-Calculado>>0.00152979317757		Desejado>>0.0		Erro>>1.17013358307e-06
+Calculado>>0.00799707998049		Desejado>>0.0		Erro>>3.19766441072e-05
 Padrão>>255
-Calculado>>0.00363727729067		Desejado>>0.0		Erro>>6.6148930446e-06
+Calculado>>0.780706006767		Desejado>>0.0		Erro>>0.304750934501
 Padrão>>256
-Calculado>>0.00344882437949		Desejado>>0.0		Erro>>5.94719480027e-06
+Calculado>>0.722348607346		Desejado>>0.0		Erro>>0.260893755267
 Padrão>>257
-Calculado>>0.995424539543		Desejado>>1.0		Erro>>1.04674191948e-05
+Calculado>>0.0325367817423		Desejado>>1.0		Erro>>0.467992539341
 Padrão>>258
-Calculado>>0.00285535707634		Desejado>>0.0		Erro>>4.07653201669e-06
+Calculado>>0.0522301400889		Desejado>>0.0		Erro>>0.00136399376685
 Padrão>>259
-Calculado>>0.00268098937461		Desejado>>0.0		Erro>>3.59385201339e-06
+Calculado>>0.453124763828		Desejado>>0.0		Erro>>0.102661025797
 Padrão>>260
-Calculado>>0.993971774913		Desejado>>1.0		Erro>>1.81697488498e-05
+Calculado>>0.0689742507384		Desejado>>1.0		Erro>>0.433404472894
 Padrão>>261
-Calculado>>0.00266808868799		Desejado>>0.0		Erro>>3.55934862348e-06
+Calculado>>0.0815440751837		Desejado>>0.0		Erro>>0.00332471809878
 Padrão>>262
-Calculado>>0.00204970231119		Desejado>>0.0		Erro>>2.10063978224e-06
+Calculado>>0.00633263863265		Desejado>>0.0		Erro>>2.00511560259e-05
 Padrão>>263
-Calculado>>0.00292813082136		Desejado>>0.0		Erro>>4.2869750535e-06
+Calculado>>0.352018717422		Desejado>>0.0		Erro>>0.0619585887076
 Padrão>>264
-Calculado>>0.00149320593006		Desejado>>0.0		Erro>>1.11483197478e-06
+Calculado>>0.0564456351901		Desejado>>0.0		Erro>>0.00159305486601
 Padrão>>265
-Calculado>>0.0039028469588		Desejado>>0.0		Erro>>7.6161071919e-06
+Calculado>>0.138337716599		Desejado>>0.0		Erro>>0.0095686619169
 Padrão>>266
-Calculado>>0.998176680435		Desejado>>1.0		Erro>>1.66224711811e-06
+Calculado>>0.857888594769		Desejado>>1.0		Erro>>0.0100978257484
 Padrão>>267
-Calculado>>0.00246506569676		Desejado>>0.0		Erro>>3.03827444467e-06
+Calculado>>0.0270015885594		Desejado>>0.0		Erro>>0.000364542892367
 Padrão>>268
-Calculado>>0.00251719385973		Desejado>>0.0		Erro>>3.16813246373e-06
+Calculado>>0.280773507532		Desejado>>0.0		Erro>>0.0394168812661
 Padrão>>269
-Calculado>>0.00141024249644		Desejado>>0.0		Erro>>9.94391949379e-07
+Calculado>>0.0098587361269		Desejado>>0.0		Erro>>4.85973390099e-05
 Padrão>>270
-Calculado>>0.00170374832358		Desejado>>0.0		Erro>>1.45137917505e-06
+Calculado>>0.164367347176		Desejado>>0.0		Erro>>0.0135083124089
 Padrão>>271
-Calculado>>0.995345966133		Desejado>>1.0		Erro>>1.08300156171e-05
+Calculado>>0.105261936524		Desejado>>1.0		Erro>>0.400278101116
 Padrão>>272
-Calculado>>0.995821765369		Desejado>>1.0		Erro>>8.72882231458e-06
+Calculado>>0.685770044427		Desejado>>1.0		Erro>>0.0493702324897
 Padrão>>273
-Calculado>>0.00465775576896		Desejado>>0.0		Erro>>1.08473444016e-05
+Calculado>>0.735430414634		Desejado>>0.0		Erro>>0.270428947385
 Padrão>>274
-Calculado>>0.00211285554975		Desejado>>0.0		Erro>>2.23207928705e-06
+Calculado>>0.0424719269639		Desejado>>0.0		Erro>>0.000901932290013
 Padrão>>275
-Calculado>>0.00243371481045		Desejado>>0.0		Erro>>2.96148388931e-06
+Calculado>>0.684576370463		Desejado>>0.0		Erro>>0.234322403498
 Padrão>>276
-Calculado>>0.00504293518921		Desejado>>0.0		Erro>>1.27155976613e-05
+Calculado>>0.219164467774		Desejado>>0.0		Erro>>0.0240165319674
 Padrão>>277
-Calculado>>0.00247569290981		Desejado>>0.0		Erro>>3.06452769184e-06
+Calculado>>0.128021488518		Desejado>>0.0		Erro>>0.0081947507612
 Padrão>>278
-Calculado>>0.00259519679138		Desejado>>0.0		Erro>>3.36752319298e-06
+Calculado>>0.44133578165		Desejado>>0.0		Erro>>0.0973886360821
 Padrão>>279
-Calculado>>0.00175593307442		Desejado>>0.0		Erro>>1.54165048092e-06
+Calculado>>0.0899236118809		Desejado>>0.0		Erro>>0.00404312798686
 Padrão>>280
-Calculado>>0.00218985265161		Desejado>>0.0		Erro>>2.39772731788e-06
+Calculado>>0.0495901235271		Desejado>>0.0		Erro>>0.00122959017572
 Padrão>>281
-Calculado>>0.00375693720128		Desejado>>0.0		Erro>>7.05728856718e-06
+Calculado>>0.0714738779948		Desejado>>0.0		Erro>>0.00255425761781
 Padrão>>282
-Calculado>>0.00229907378235		Desejado>>0.0		Erro>>2.64287012834e-06
+Calculado>>0.64072785179		Desejado>>0.0		Erro>>0.20526609003
 Padrão>>283
-Calculado>>0.00277451972325		Desejado>>0.0		Erro>>3.84897984736e-06
+Calculado>>0.730039673608		Desejado>>0.0		Erro>>0.266478962521
 Padrão>>284
-Calculado>>0.0025121422944		Desejado>>0.0		Erro>>3.15542945367e-06
+Calculado>>0.383399040482		Desejado>>0.0		Erro>>0.0734974121213
 Padrão>>285
-Calculado>>0.0026965025132		Desejado>>0.0		Erro>>3.63556290184e-06
+Calculado>>0.0360932630687		Desejado>>0.0		Erro>>0.000651361819473
 Padrão>>286
-Calculado>>0.00225280416409		Desejado>>0.0		Erro>>2.53756330088e-06
+Calculado>>0.615321019566		Desejado>>0.0		Erro>>0.18930997856
 Padrão>>287
-Calculado>>0.00252156600659		Desejado>>0.0		Erro>>3.1791475628e-06
+Calculado>>0.410500258746		Desejado>>0.0		Erro>>0.0842552312154
 
 
-Erro Quadrático Médio>>5.651484333e-06
+Erro Quadrático Médio>>0.0975516922537
 
 <<Pesos Camada Entrada Oculta>>
-w1[0][1]=-1.68361565793
-w1[0][2]=-0.740121350005
-w1[0][3]=-1.59861661986
-w1[0][4]=3.23477603072
-w1[0][5]=-1.72286351114
-w1[0][6]=-1.68472143485
+w1[0][1]=1.1906823012
+w1[0][2]=10.4624945307
+w1[0][3]=-0.365975918375
+w1[0][4]=0.896245493362
+w1[0][5]=-1.40825032384
+w1[0][6]=-1.73790468474
+w1[0][7]=-2.71820707375
+w1[0][8]=0.186619457915
 
-w1[1][1]=-0.593892598504
-w1[1][2]=-0.621418353448
-w1[1][3]=-0.131728697341
-w1[1][4]=0.0222787573056
-w1[1][5]=-1.00253125602
-w1[1][6]=-1.65339860911
+w1[1][1]=1.11306598039
+w1[1][2]=-10.4191073351
+w1[1][3]=-0.871441966973
+w1[1][4]=-2.47672657603
+w1[1][5]=-0.250300490006
+w1[1][6]=-0.209114356071
+w1[1][7]=-3.90020197219
+w1[1][8]=2.65374667369
 
-w1[2][1]=-0.361821468012
-w1[2][2]=-0.154848361536
-w1[2][3]=-1.18715407892
-w1[2][4]=0.314062910526
-w1[2][5]=-1.34160966289
-w1[2][6]=-0.630951337375
+w1[2][1]=-7.24358801569
+w1[2][2]=0.815066807171
+w1[2][3]=-0.0685614581239
+w1[2][4]=-0.624806656312
+w1[2][5]=-0.396639731966
+w1[2][6]=-1.56452577477
+w1[2][7]=-8.85559326984
+w1[2][8]=4.00403399543
 
-w1[3][1]=-0.198611227769
-w1[3][2]=-0.226664727841
-w1[3][3]=-0.425859596661
-w1[3][4]=-0.0298776108341
-w1[3][5]=-1.38975850863
-w1[3][6]=-1.03535908606
+w1[3][1]=-1.45207541991
+w1[3][2]=-11.5411157269
+w1[3][3]=-0.702839964135
+w1[3][4]=-1.46084450377
+w1[3][5]=-1.11845991308
+w1[3][6]=-0.0663157503305
+w1[3][7]=-4.84646089309
+w1[3][8]=-1.01803311303
 
-w1[4][1]=-1.67560270376
-w1[4][2]=-0.851317654951
-w1[4][3]=-1.36758397386
-w1[4][4]=0.102305405685
-w1[4][5]=-1.0336227711
-w1[4][6]=-0.0707088523923
+w1[4][1]=0.922581769481
+w1[4][2]=0.716441217811
+w1[4][3]=-2.18722312454
+w1[4][4]=2.67900920306
+w1[4][5]=-1.25486272407
+w1[4][6]=-0.110213511803
+w1[4][7]=6.63329778734
+w1[4][8]=2.31242723619
 
-w1[5][1]=-0.657928821099
-w1[5][2]=-1.37085810778
-w1[5][3]=-1.72402341741
-w1[5][4]=0.180859204436
-w1[5][5]=-1.95790100352
-w1[5][6]=-1.09122162309
+w1[5][1]=-1.90756984993
+w1[5][2]=-1.81373155738
+w1[5][3]=-0.353500559693
+w1[5][4]=0.614790531872
+w1[5][5]=-1.15175438728
+w1[5][6]=-0.699609267388
+w1[5][7]=4.31089008702
+w1[5][8]=1.3921617103
 
-w1[6][1]=-1.49092481307
-w1[6][2]=-0.222391104441
-w1[6][3]=-1.73171815146
-w1[6][4]=0.253061801089
-w1[6][5]=-1.65427077593
-w1[6][6]=-1.43266307618
+w1[6][1]=-1.54353442977
+w1[6][2]=-7.09351154438
+w1[6][3]=-1.3125363984
+w1[6][4]=-0.427211445008
+w1[6][5]=-0.209637870494
+w1[6][6]=-0.590364486221
+w1[6][7]=4.53990683528
+w1[6][8]=0.333293038614
 
-w1[7][1]=-0.382168183336
-w1[7][2]=-1.56739702932
-w1[7][3]=-1.2776938379
-w1[7][4]=0.0010980054739
-w1[7][5]=-0.361782198619
-w1[7][6]=-0.793040597704
+w1[7][1]=-3.68824993229
+w1[7][2]=-10.1630019212
+w1[7][3]=0.31902723801
+w1[7][4]=-2.37955005229
+w1[7][5]=-1.90955074764
+w1[7][6]=-1.27020683985
+w1[7][7]=-0.00717926857417
+w1[7][8]=-0.71157801894
 
-w1[8][1]=-0.878307562268
-w1[8][2]=-0.669269642276
-w1[8][3]=-1.30206057938
-w1[8][4]=-0.139162904758
-w1[8][5]=-0.390626888667
-w1[8][6]=-0.634132298329
+w1[8][1]=2.17192012058
+w1[8][2]=0.932282582313
+w1[8][3]=0.134544599469
+w1[8][4]=-2.43973268446
+w1[8][5]=-1.75260721278
+w1[8][6]=-0.869984237324
+w1[8][7]=-3.97859822239
+w1[8][8]=-2.84969276457
 
-w1[9][1]=-1.8411302347
-w1[9][2]=-0.768718735554
-w1[9][3]=-0.312044721016
-w1[9][4]=0.154276183866
-w1[9][5]=-0.101381540645
-w1[9][6]=-1.05296897073
+w1[9][1]=4.20835446746
+w1[9][2]=8.50892739959
+w1[9][3]=-1.28931571167
+w1[9][4]=-0.0282422478691
+w1[9][5]=-0.0215149640049
+w1[9][6]=-0.148498057375
+w1[9][7]=0.612228372272
+w1[9][8]=-1.76602569268
 
-w1[10][1]=-1.96216969517
-w1[10][2]=-1.27429057593
-w1[10][3]=-0.775611148548
-w1[10][4]=0.300296690647
-w1[10][5]=-1.38233755008
-w1[10][6]=-1.65312872231
+w1[10][1]=-2.43954960877
+w1[10][2]=-3.32883807652
+w1[10][3]=-0.164532591262
+w1[10][4]=-1.55802153786
+w1[10][5]=-0.633326396964
+w1[10][6]=-1.50466604309
+w1[10][7]=-2.04595525526
+w1[10][8]=-1.74980395796
 
-w1[11][1]=-0.503185863999
-w1[11][2]=-1.2043303263
-w1[11][3]=-1.6530823366
-w1[11][4]=-0.140005761305
-w1[11][5]=-1.3281806225
-w1[11][6]=-1.15190627662
+w1[11][1]=-0.512159294138
+w1[11][2]=0.451303796432
+w1[11][3]=-1.31442135782
+w1[11][4]=-1.98338230183
+w1[11][5]=-0.526984175895
+w1[11][6]=-1.32099604836
+w1[11][7]=-2.91571633936
+w1[11][8]=-2.46767287011
 
-w1[12][1]=-1.72211732753
-w1[12][2]=-0.848405424388
-w1[12][3]=-1.33281592692
-w1[12][4]=-0.158117429924
-w1[12][5]=-0.184462483934
-w1[12][6]=-0.0516210971928
+w1[12][1]=-3.54623371374
+w1[12][2]=4.07247344174
+w1[12][3]=-0.174145992569
+w1[12][4]=-3.1427759905
+w1[12][5]=-1.04036855122
+w1[12][6]=-1.10160348636
+w1[12][7]=-1.72963707233
+w1[12][8]=-2.11626383795
 
-w1[13][1]=-1.70282043012
-w1[13][2]=-0.263561385578
-w1[13][3]=-1.21328609755
-w1[13][4]=-0.0966521293569
-w1[13][5]=-0.682534848239
-w1[13][6]=-1.23131074825
+w1[13][1]=-2.06315349362
+w1[13][2]=1.53932818332
+w1[13][3]=-0.816367387302
+w1[13][4]=-2.32011181422
+w1[13][5]=-1.62060241057
+w1[13][6]=-0.956571275325
+w1[13][7]=6.77108121475
+w1[13][8]=-1.34777029603
 
-w1[14][1]=-0.671544942144
-w1[14][2]=-1.47880936041
-w1[14][3]=-0.651236226374
-w1[14][4]=0.000985745108191
-w1[14][5]=-1.73922676748
-w1[14][6]=-0.43096014721
+w1[14][1]=-1.84629890706
+w1[14][2]=-5.10524255525
+w1[14][3]=-0.826054891719
+w1[14][4]=-1.64070834511
+w1[14][5]=-1.35819631527
+w1[14][6]=-0.326426829347
+w1[14][7]=0.242849132219
+w1[14][8]=-0.943350486452
 
-w1[15][1]=-1.77755603556
-w1[15][2]=-0.490016119951
-w1[15][3]=-0.473742256682
-w1[15][4]=-0.646564355976
-w1[15][5]=-0.738901966202
-w1[15][6]=-1.07113807344
+w1[15][1]=0.320410116434
+w1[15][2]=-18.3649469295
+w1[15][3]=-0.760275868886
+w1[15][4]=0.819177110707
+w1[15][5]=-1.7429832423
+w1[15][6]=-0.496228555496
+w1[15][7]=-4.94818875681
+w1[15][8]=-1.38618728981
 
-w1[16][1]=-1.69640059228
-w1[16][2]=-0.552863050454
-w1[16][3]=-0.547698700284
-w1[16][4]=0.513959706341
-w1[16][5]=-0.943652139728
-w1[16][6]=-1.10930502687
+w1[16][1]=-3.07107735645
+w1[16][2]=2.44109307356
+w1[16][3]=0.0787046862507
+w1[16][4]=-2.07790981438
+w1[16][5]=-1.48588476005
+w1[16][6]=-0.624820340029
+w1[16][7]=8.387387765
+w1[16][8]=-2.4864997581
 
-w1[17][1]=-1.92390125994
-w1[17][2]=-1.59643829802
-w1[17][3]=-0.774210892091
-w1[17][4]=-1.25924981178
-w1[17][5]=-0.984650367853
-w1[17][6]=-1.69154129504
+w1[17][1]=-1.46900758636
+w1[17][2]=-28.7053943321
+w1[17][3]=-1.43528436615
+w1[17][4]=0.367680103087
+w1[17][5]=-1.78854494077
+w1[17][6]=-1.13361292705
+w1[17][7]=-6.81209352235
+w1[17][8]=0.502939431837
 
-w1[18][1]=-1.61614274583
-w1[18][2]=-0.975066910325
-w1[18][3]=-0.771173681854
-w1[18][4]=-1.80395878954
-w1[18][5]=-1.7723179448
-w1[18][6]=-1.21025420765
+w1[18][1]=-0.531805750638
+w1[18][2]=13.2454545658
+w1[18][3]=-1.10315030865
+w1[18][4]=-2.16105292519
+w1[18][5]=-0.948656934175
+w1[18][6]=-0.672453075353
+w1[18][7]=3.81595674541
+w1[18][8]=-1.73573711899
 
-w1[19][1]=-0.971843293143
-w1[19][2]=-0.802080942474
-w1[19][3]=-1.33254919756
-w1[19][4]=-0.00966899850101
-w1[19][5]=-1.85807515371
-w1[19][6]=-0.41093908496
+w1[19][1]=-0.714062172697
+w1[19][2]=22.3536456882
+w1[19][3]=-0.94405084323
+w1[19][4]=-1.83943237326
+w1[19][5]=-0.209520094225
+w1[19][6]=-1.90859262127
+w1[19][7]=0.69931317603
+w1[19][8]=-0.15605842618
 
-w1[20][1]=-0.756136236672
-w1[20][2]=-1.33788383507
-w1[20][3]=-0.829842139912
-w1[20][4]=-0.0466983689482
-w1[20][5]=-1.77293373305
-w1[20][6]=-0.490374592721
+w1[20][1]=-2.51004972849
+w1[20][2]=6.21022767203
+w1[20][3]=-1.36738687327
+w1[20][4]=-1.69812375661
+w1[20][5]=-0.0632411525525
+w1[20][6]=-0.370042188704
+w1[20][7]=-5.87724246423
+w1[20][8]=-0.0371522461388
 
-w1[21][1]=-0.317028983323
-w1[21][2]=-1.97521182344
-w1[21][3]=-0.851305264631
-w1[21][4]=-1.29397889438
-w1[21][5]=-0.0928052394007
-w1[21][6]=-1.4902268772
+w1[21][1]=0.54805583842
+w1[21][2]=2.7902548998
+w1[21][3]=-1.85713475225
+w1[21][4]=-0.277845917278
+w1[21][5]=-1.88746480266
+w1[21][6]=-0.755045374424
+w1[21][7]=4.61241697151
+w1[21][8]=-1.12044866861
 
-w1[22][1]=-1.4050253971
-w1[22][2]=-0.639777653382
-w1[22][3]=-1.00809690081
-w1[22][4]=-0.484761438457
-w1[22][5]=-2.00629900031
-w1[22][6]=-1.62958500221
+w1[22][1]=-1.09079695132
+w1[22][2]=-3.69864839501
+w1[22][3]=-0.828888503076
+w1[22][4]=-0.564422933155
+w1[22][5]=-1.25347783707
+w1[22][6]=-1.95183520274
+w1[22][7]=2.03526138785
+w1[22][8]=-1.80578175955
 
-w1[23][1]=-1.3880904968
-w1[23][2]=-0.0849146770204
-w1[23][3]=-1.81128658929
-w1[23][4]=-0.368463263691
-w1[23][5]=-1.69903717877
-w1[23][6]=-0.0112893804795
+w1[23][1]=-0.165530715105
+w1[23][2]=-18.3251818522
+w1[23][3]=-1.26215791323
+w1[23][4]=-0.646100039948
+w1[23][5]=-1.22564692373
+w1[23][6]=-1.47057617654
+w1[23][7]=-5.39010673136
+w1[23][8]=-0.556339891234
 
-w1[24][1]=-0.626264328479
-w1[24][2]=-1.75756014044
-w1[24][3]=-1.31309644078
-w1[24][4]=-23.5919245184
-w1[24][5]=-1.06652637821
-w1[24][6]=-0.682622876457
+w1[24][1]=-0.30044912174
+w1[24][2]=-14.3418925672
+w1[24][3]=-0.763257115847
+w1[24][4]=-0.727334249614
+w1[24][5]=-0.937838660777
+w1[24][6]=-0.268998012315
+w1[24][7]=0.903716052726
+w1[24][8]=1.11851792033
 
 
 <<Pesos Camada Oculta Saída>>
-w2[0][0]=9.55984024901
+w2[0][0]=-1.72452747122
 
-w2[1][0]=-1.08538471061
+w2[1][0]=-4.84427999519
 
-w2[2][0]=-0.409381635266
+w2[2][0]=4.53739365236
 
-w2[3][0]=-0.256676316653
+w2[3][0]=1.63865981153
 
-w2[4][0]=-21.2718916846
+w2[4][0]=-3.2637644011
 
-w2[5][0]=-1.24747349217
+w2[5][0]=-0.692743081155
 
-w2[6][0]=-0.0829387920322
+w2[6][0]=-0.334529377109
+
+w2[7][0]=11.766086438
+
+w2[8][0]=-4.55659587903

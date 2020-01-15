@@ -1,12 +1,12 @@
-NINT1 = 1 #4 neurônios internos + 1 bias
-NINT2 = 1 #Assumirá NENT*aleartorio do outro módulo7
+NINT1 = 10 #4 neurônios internos + 1 bias
+NINT2 = 9 #Assumirá NENT*aleartorio do outro módulo7
 NINTER = 50 #Limite para pesos
 NENT = 25 #2 neurônios de entrada + bias
 NSAI = 1 #1 neurônio de saída
 NPAD = 574 #Número de padrões do dataset completo
-TAPR = 0.1 #Taxa de aprendizagem
-TAPR1 = 0.2
-MAXITER = 250000 #Limite de iterações
+TAPR = 0.7 #Taxa de aprendizagem
+TAPR1 = 0.3
+MAXITER = 450000 #Limite de iterações
 ACEITAVEL = 0.0001 #Erro aceitável
 err = 0.0 #Erro
 emq = 0.0 #Erro médio quadrático

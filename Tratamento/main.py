@@ -54,7 +54,7 @@ print(texto[0][1])'''
 dados = []
 for i in range(len(texto)):
   dados.append(re.split('  |,|\n|-', texto[i]))
-  dados[i] = dados[i][1:]
+  dados[i] = dados[i][0:]
   #print(re.split(' ,|\n', texto[i]))
   #if i != len(texto) - 1:
   del (dados[i][-1])
@@ -134,9 +134,9 @@ dataset.append('def criar_dataset(x, y):\n')
 #dataset.append('Valores de Entrada\n\n')
 for i in range(NPAD):
   for j in range(NENT):
-    print('x[{}][{}] = {};'.format(i, j, x[i,j]))
+    #print('x[{}][{}] = {};'.format(i, j, x[i,j]))
     dataset.append('\tx['+str(i)+']['+str(j)+'] = '+str(x[i,j])+';\n')
-  print('\n')
+  #print('\n')
   dataset.append('\n')
 
 cont1 = cont2 = 0
@@ -144,7 +144,7 @@ cont1 = cont2 = 0
 print('\nValores de saída\n')
 for i in range(NPAD):
   for j in range(NSAI):
-    print('y[{}][{}] = {};'.format(i, j, y[i,j]))
+    #print('y[{}][{}] = {};'.format(i, j, y[i,j]))
     if y[i, j] == 0.0: cont1 += 1
     else: cont2 += 1
     dataset.append('\ty['+str(i)+']['+str(j)+'] = '+str(y[i,j])+';\n')
