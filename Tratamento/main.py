@@ -24,7 +24,7 @@ def organizar_dados():
 
 aleat = False
 
-arquivo = 'german_credit_sem_outliers.txt'
+arquivo = 'hepatitis.txt'
 
 arq = open(arquivo, 'r')
 texto = arq.readlines()
@@ -66,7 +66,7 @@ print(type(dados[0][0]))
 
 #Removendo espaços
 for i in range(len(dados)):
-    for j in range(24):
+    for j in range(19):
         print(j)
         dados[i][j] = dados[i][j].strip()
 for i in range(len(dados)):
@@ -74,11 +74,11 @@ for i in range(len(dados)):
 for i in range(len(dados)):
     print('DADOS LINHA {}: {}\n'.format(i ,dados[i]))
 
-NPAD = 862
-NENT = 25
+NPAD = 155
+NENT = 20
 NSAI = 1
 x = np.zeros((NPAD, NENT)) #Matriz das entradas
-y = np.zeros((NPAD, NENT)) #Matriz das saídas
+y = np.zeros((NPAD, NSAI)) #Matriz das saídas
 
 #Excluindo registros vazios
 while True:
@@ -86,16 +86,18 @@ while True:
   for i in range(len(dados)):
     if '?' in dados[i]:
       del dados[i]
+      NPAD -= 1
       cont +=1
     if cont > 0:
       break
   if cont == 0:
     break
-
+print(len(dados))
 #Definindo x
 k = 1
 for i in range(NPAD):
-  for j in range(0, NENT-1):
+  #for j in range(0, NENT-1):
+  for j in range(1, NENT):
     x[i, k] = float(dados[i][j])
     k += 1
   k = 1
@@ -104,7 +106,8 @@ for i in range(NPAD):
 #Definindo y
 for i in range(NPAD):
   for j in range(NSAI):
-    y[i, j] = float(dados[i][-1])
+    #y[i, j] = float(dados[i][-1])
+    y[i, j] = float(dados[i][0])
 
 #Normalizando os dados
   for i in range(NPAD):
@@ -123,11 +126,11 @@ for i in range(NPAD):
        aux = '0.' + aux
        y[i, j] = float(aux)
 
-for i in range(NPAD):
+'''for i in range(NPAD):
 	for j in range(NSAI):
 		if y[i, j] == 0.1:
 			y[i, j] = 0.0
-		else: y[i, j] = 1.0
+		else: y[i, j] = 1.0'''
 dataset = []
 print('Valores de Entrada\n')
 dataset.append('def criar_dataset(x, y):\n')
@@ -145,7 +148,7 @@ print('\nValores de saída\n')
 for i in range(NPAD):
   for j in range(NSAI):
     #print('y[{}][{}] = {};'.format(i, j, y[i,j]))
-    if y[i, j] == 0.0: cont1 += 1
+    if y[i, j] == 0.1: cont1 += 1
     else: cont2 += 1
     dataset.append('\ty['+str(i)+']['+str(j)+'] = '+str(y[i,j])+';\n')
 

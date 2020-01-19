@@ -1,3 +1,4 @@
+import dataset
 import teste
 import treino
 import d1
@@ -5,11 +6,11 @@ import numpy as np
 from itertools import chain
 from collections import Counter
 
-NENT = 25
+NENT = 20
 NSAI = 1
 
-x = np.zeros((288, NENT))
-y = np.zeros((288, NSAI))
+x = np.zeros((27, NENT))
+y = np.zeros((27, NSAI))
 
 teste.criar_teste(x, y)
 

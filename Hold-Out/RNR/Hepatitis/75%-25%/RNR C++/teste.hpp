@@ -1,4 +1,4 @@
-def criar_teste(x, y):
+void criar_teste(double x[27][20], double y[27][1]){	
 	x[0][0] = 1.0;
 	x[0][1] = 0.45;
 	x[0][2] = 0.1;
@@ -620,3 +620,4 @@ def criar_teste(x, y):
 
 	y[26][0] = 0.2;
 
+}

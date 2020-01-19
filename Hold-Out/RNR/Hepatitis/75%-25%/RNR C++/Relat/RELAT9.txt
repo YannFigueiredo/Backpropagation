@@ -1,0 +1,63 @@
+
+
+VERIFICACAO
+
+Padrao Testes>>0
+calculado>>0.194162  	desejado>>0.2   	Erro>>1.70398e-05
+Padrao Testes>>1
+calculado>>0.153507  	desejado>>0.2   	Erro>>0.00108081
+Padrao Testes>>2
+calculado>>0.143306  	desejado>>0.2   	Erro>>0.00160711
+Padrao Testes>>3
+calculado>>0.207931  	desejado>>0.2   	Erro>>3.14483e-05
+Padrao Testes>>4
+calculado>>0.178807  	desejado>>0.2   	Erro>>0.000224581
+Padrao Testes>>5
+calculado>>0.193185  	desejado>>0.2   	Erro>>2.32236e-05
+Padrao Testes>>6
+calculado>>0.200095  	desejado>>0.2   	Erro>>4.50705e-09
+Padrao Testes>>7
+calculado>>0.174137  	desejado>>0.2   	Erro>>0.000334451
+Padrao Testes>>8
+calculado>>0.198649  	desejado>>0.2   	Erro>>9.12237e-07
+Padrao Testes>>9
+calculado>>0.194673  	desejado>>0.2   	Erro>>1.41867e-05
+Padrao Testes>>10
+calculado>>0.21074  	desejado>>0.2   	Erro>>5.76748e-05
+Padrao Testes>>11
+calculado>>0.159602  	desejado>>0.2   	Erro>>0.000815983
+Padrao Testes>>12
+calculado>>0.192928  	desejado>>0.2   	Erro>>2.50035e-05
+Padrao Testes>>13
+calculado>>0.20032  	desejado>>0.2   	Erro>>5.11241e-08
+Padrao Testes>>14
+calculado>>0.193797  	desejado>>0.2   	Erro>>1.92414e-05
+Padrao Testes>>15
+calculado>>0.191908  	desejado>>0.2   	Erro>>3.27423e-05
+Padrao Testes>>16
+calculado>>0.186743  	desejado>>0.2   	Erro>>8.78703e-05
+Padrao Testes>>17
+calculado>>0.177118  	desejado>>0.1   	Erro>>0.0029736
+Padrao Testes>>18
+calculado>>0.153748  	desejado>>0.1   	Erro>>0.00144442
+Padrao Testes>>19
+calculado>>0.117871  	desejado>>0.1   	Erro>>0.000159683
+Padrao Testes>>20
+calculado>>0.190907  	desejado>>0.2   	Erro>>4.13393e-05
+Padrao Testes>>21
+calculado>>0.208775  	desejado>>0.2   	Erro>>3.85023e-05
+Padrao Testes>>22
+calculado>>0.182568  	desejado>>0.1   	Erro>>0.00340872
+Padrao Testes>>23
+calculado>>0.185059  	desejado>>0.2   	Erro>>0.00011161
+Padrao Testes>>24
+calculado>>0.187184  	desejado>>0.2   	Erro>>8.21296e-05
+Padrao Testes>>25
+calculado>>0.125335  	desejado>>0.2   	Erro>>0.00278744
+Padrao Testes>>26
+calculado>>0.17856  	desejado>>0.2   	Erro>>0.00022983
+
+Contagem de acertos:>> 22(1, 21)
+Contagem de erro:>> 5
+Porcentagem de acertos:>> 81.4815
+Acuracia:>> 0.814815

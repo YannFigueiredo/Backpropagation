@@ -1,8 +1,8 @@
 import dataset
 import numpy as np
 
-NPAD = 862
-NENT = 25
+NPAD = 80
+NENT = 20
 NSAI = 1
 
 x = np.zeros((NPAD, NENT))
@@ -11,10 +11,10 @@ y = np.zeros((NPAD, NSAI))
 dataset.criar_dataset(x, y)
 
 #Variáveis para balanceamento
-treino01 = 422
-treino02 = 152
-teste01 = 212
-teste02 = 76
+treino01 = 9
+treino02 = 44
+teste01 = 4
+teste02 = 23
 balanc = True
 
 #Treino
@@ -54,14 +54,14 @@ treino_cont01 = treino_cont02 = teste_cont01 = teste_cont02 = k = w = 0
 flag = False
 for i in range(NPAD):
     for j in range(NSAI):
-        if y[i, j] == 0.0 and treino_cont01 < treino01:
+        if y[i, j] == 0.1 and treino_cont01 < treino01:
             treino_cont01 += 1
             for z in range(NENT):
                 treino.append('\tx['+str(k)+']['+str(z)+'] = '+str(x[i,z])+';\n')
             treino.append('\n\ty['+str(k)+']['+str(j)+'] = '+str(y[i,j])+';\n\n')
             k += 1
             flag = True
-        elif y[i, j] == 0.0 and teste_cont01 < teste01 and flag == False:
+        elif y[i, j] == 0.1 and teste_cont01 < teste01 and flag == False:
             teste_cont01 += 1
             for z in range(NENT):
                 teste.append('\tx['+str(w)+']['+str(z)+'] = '+str(x[i,z])+';\n')
@@ -69,14 +69,14 @@ for i in range(NPAD):
             w += 1
         flag = False
 
-        if y[i, j] == 1.0 and treino_cont02 < treino02:
+        if y[i, j] == 0.2 and treino_cont02 < treino02:
             treino_cont02 += 1
             for z in range(NENT):
                 treino.append('\tx['+str(k)+']['+str(z)+'] = '+str(x[i,z])+';\n')
             treino.append('\n\ty['+str(k)+']['+str(j)+'] = '+str(y[i,j])+';\n\n')
             k += 1
             flag = True
-        elif y[i, j] == 1.0 and teste_cont02 < teste02 and flag == False:
+        elif y[i, j] == 0.2 and teste_cont02 < teste02 and flag == False:
             teste_cont02 += 1
             for z in range(NENT):
                 teste.append('\tx['+str(w)+']['+str(z)+'] = '+str(x[i,z])+';\n')
